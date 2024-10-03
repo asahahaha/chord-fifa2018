@@ -4,7 +4,7 @@
 
 This repository hosts the code and resources used to create an interactive chord diagram visualization of the 2018 FIFA World Cup. The visualization illustrates the relationships between different national teams through their match statistics, providing insights into the flow of goals, passes, and other key game metrics during the tournament.
 
-Explore the interactive visualization [here](https://asahahaha.github.io/2018FIFAInChordDiagram/).
+Explore the interactive visualization [here](https://asahahaha.github.io/chord-fifa2018/).
 ![Description of the image](preview.png)
 
 ## Built With
